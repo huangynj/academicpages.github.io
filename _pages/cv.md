@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Meteorology, Sun Yat-Sen University, Guangzhou, China, 2012
+* Ph.D in Meteorology, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing,
+China, 2017
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,7 +26,17 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+* 2017/02-Present: Visiting PostDoc
+  * Research Applications Laboratory, National Center for Atmospheric Research, Boulder, CO, USA
+
+* 2012-2017/01: Graduate Research Assistant
+  * Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China
+
+* 2009-2012: Undergraduate Research Assistant
+  * Laboratory of Atmospheric Observation, Sun Yat-sen University, Guangzhou, China
+
+
 Skills
 ======
 * Skill 1
