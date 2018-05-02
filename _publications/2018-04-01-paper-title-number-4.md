@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Forecasting Severe Convective Storms with WRF-based RTFDDA Radar Data Assimilation in Guangdong, China"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2018-04-01-paper-title-number-4.md
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2018-04-01
+venue: 'Atmospheric Research'
+paperurl: 'https://doi.org/10.1016/j.atmosres.2018.03.010'
+citation: 'Huang, et al. (2018). &quot;Forecasting Severe Convective Storms with WRF-based RTFDDA Radar Data Assimilation in Guangdong, China.&quot; <i>Atmospheric Research</i>. 209, 131-143.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1016/j.atmosres.2018.03.010)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Huang, et al., 2018: Forecasting Severe Convective Storms with WRF-based RTFDDA Radar Data Assimilation in Guangdong, China.  <i>Atmospheric Research</i>, 209, 131-143.
