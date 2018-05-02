@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Yongjie Huang"
-  avatar           : "profile.png"
+  avatar           : "huang.jpg" #"profile.png"
   bio              : "PhD"
   location         : "NCAR, Boulder, CO"
   employer         :
