@@ -11,22 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Meteorology, Sun Yat-Sen University, Guangzhou, China, 2012
-* Ph.D in Meteorology, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing,
-China, 2017
+* B.S. in Meteorology, Sun Yat-Sen University, 2012
+* Ph.D in Meteorology, Institute of Atmospheric Physics, Chinese Academy of Sciences, 2017
 
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 * 2017/02-Present: Visiting PostDoc
   * Research Applications Laboratory, National Center for Atmospheric Research, Boulder, CO, USA
 
