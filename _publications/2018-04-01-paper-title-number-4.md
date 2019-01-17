@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Severe Convective Storms with WRF-based RTFDDA Radar Data Assimilation in Guangdong, China"
 collection: publications
-permalink: /publication/2018-04-01-paper-title-number-4.md
+permalink: /publication/2018-04-01-paper-title-number-4
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-04-01
 venue: 'Atmospheric Research'
