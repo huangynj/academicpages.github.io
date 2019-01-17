@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yongjie Huang"
+title                    : "Yongjie Huang"
 title_separator          : "-"
-name                     : &name "Dr. Yongjie Huang"
+name                     : &name "Yongjie Huang"
 description              : &description "PhD"
 url                      : https://huangynj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yongjie Huang"
+  name             : "Yongjie Huang"
   avatar           : "huang.jpg" #"profile.png"
   bio              : "PhD"
   location         : "NCAR, Boulder, CO"
